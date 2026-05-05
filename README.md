@@ -3,7 +3,7 @@
 ***Building data systems that turn messy inputs into reliable decisions.***
 
 Data professional with 6+ years of experience building data pipelines, data systems, and predictive models to support high-impact decision-making.  
-I focus on bridging **data engineering and analytics**—designing systems that transform raw data into structured, actionable insights.
+I focus on bridging **data engineering and analytics**, designing systems that transform raw data into structured, actionable insights.
 
 ---
 
