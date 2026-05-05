@@ -1,4 +1,4 @@
-:wave: # Hi, I’m Sadia
+# Hi, I’m Sadia 👋
 
 **Building data systems that turn messy inputs into reliable decisions.**
 
@@ -7,7 +7,7 @@ I focus on bridging **data engineering and analytics**—designing systems that 
 
 ---
 
-## What I Do
+## 🔧 What I Do
 
 | Area | Focus |
 |------|------|
@@ -18,9 +18,9 @@ I focus on bridging **data engineering and analytics**—designing systems that 
 
 ---
 
-## Latest Projects
+## 📊 Latest Projects
 
-:page_with_curl: :chart_with_downwards_trend: ### Policy Impact Modeling
+### 📃📉 Policy Impact Modeling
 Predictive modeling and scenario analysis to evaluate policy effects on operational outcomes  
 :point_right: [View Project](https://github.com/sodioR/US-Policy-Impact-on-US-Repatriations)
 
@@ -28,7 +28,7 @@ Predictive modeling and scenario analysis to evaluate policy effects on operatio
 
 ---
 
-:sun_behind_rain_cloud: :baseball: ###  Environmental Impact on Baseball Performance
+### 🌦️⚾ Environmental Impact on Baseball Performance
 Analyzing environmental variables and their impact on performance metrics  
 :point_right: [View Project](https://github.com/sodioR/Environmental-Impact-on-Baseball-Performance)
 
@@ -36,7 +36,7 @@ Analyzing environmental variables and their impact on performance metrics
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Category | Tools |
 |----------|------|
@@ -47,3 +47,7 @@ Analyzing environmental variables and their impact on performance metrics
 | **Visualization** | Tableau, Power BI, Python(matplotlib, seaborn), R(ggplot2, plotly) |
 
 ---
+
+## 📫 Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/sadia-r-682284161/)
