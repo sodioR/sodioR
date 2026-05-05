@@ -24,15 +24,11 @@ I focus on bridging **data engineering and analytics**—designing systems that 
 Predictive modeling and scenario analysis to evaluate policy effects on operational outcomes  
 :point_right: [View Project](https://github.com/sodioR/US-Policy-Impact-on-US-Repatriations)
 
-<img width="2600" height="1770" alt="ratio trend" src="https://github.com/user-attachments/assets/e105ac0c-62a3-4798-a37e-a06fee56c258" />
-
 ---
 
 ### 🌦️⚾ Environmental Impact on Baseball Performance
 Analyzing environmental variables and their impact on performance metrics  
 :point_right: [View Project](https://github.com/sodioR/Environmental-Impact-on-Baseball-Performance)
-
-<img width="2121" height="859" alt="DE_ Final Project (ERD) - Color" src="https://github.com/user-attachments/assets/06dde589-0436-466b-8603-863af3102b59" />
 
 ---
 
