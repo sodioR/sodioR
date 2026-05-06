@@ -7,24 +7,11 @@ I focus on bridging **data engineering and analytics**, designing systems that t
 
 ---
 
-## 🔧 What I Do
-
-| Area | Focus |
-|------|------|
-| Data Engineering | Pipelines, ETL/ELT, workflow automation |
-| Machine Learning | Forecasting, regression, statistical modeling |
-| Analytics | EDA, feature engineering, decision support |
-| Data Systems | Data modeling, transformation layers, structured datasets |
-
----
-
 ## 📊 Latest Projects
 
 ### 📃📉 Policy Impact Modeling
 Predictive modeling and scenario analysis to evaluate policy effects on operational outcomes  
 :point_right: [View Project](https://github.com/sodioR/US-Policy-Impact-on-US-Repatriations)
-
----
 
 ### 🌦️⚾ Environmental Impact on Baseball Performance
 Analyzing environmental variables and their impact on performance metrics  
